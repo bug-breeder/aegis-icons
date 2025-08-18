@@ -1,0 +1,42 @@
+name: Update Icons
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-icons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get latest release
+        id: latest_release
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const release = await github.rest.repos.getLatestRelease({
+              owner: "alexbakker",
+              repo: "aegis-simple-icons",
+            });
+            return release.data;
+          result-encoding: json
+
+      - name: Download and extract
+        run: |
+          wget ${{ fromJson(steps.latest_release.outputs.result).zipball_url }} -O icons.zip
+          unzip -o icons.zip -d extracted
+          mv extracted/*/svg/* SVG/
+          rm -rf icons.zip extracted
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update icons to version ${{ fromJson(steps.latest_release.outputs.result).tag_name }}"
+          branch: main
+          commit_user_name: "Alan Nguyen"
+          commit_user_email: "anhngw@gmail.com"
+          commit_author: "Alan Nguyen <anhngw@gmail.com>"
+          file_pattern: "SVG/*"
