@@ -3,7 +3,7 @@ name: Update Icons
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 0"
 
 jobs:
   update-icons:
@@ -24,7 +24,18 @@ jobs:
             return release.data;
           result-encoding: json
 
+      - name: Check for new release
+        id: check_release
+        run: |
+          latest_tag="${{ fromJson(steps.latest_release.outputs.result).tag_name }}"
+          stored_tag=$(cat latest_tag.txt)
+          if [ "$latest_tag" != "$stored_tag" ]; then
+            echo "new_release=true" >> $GITHUB_OUTPUT
+            echo $latest_tag > latest_tag.txt
+          fi
+
       - name: Download and extract
+        if: steps.check_release.outputs.new_release == 'true'
         run: |
           wget ${{ fromJson(steps.latest_release.outputs.result).zipball_url }} -O icons.zip
           unzip -o icons.zip -d extracted
@@ -32,11 +43,12 @@ jobs:
           rm -rf icons.zip extracted
 
       - name: Commit and push changes
+        if: steps.check_release.outputs.new_release == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update icons to version ${{ fromJson(steps.latest_release.outputs.result).tag_name }}"
           branch: main
-          commit_user_name: "Alan Nguyen"
+          commit_user_name: "Anh Nguyen"
           commit_user_email: "anhngw@gmail.com"
-          commit_author: "Alan Nguyen <anhngw@gmail.com>"
-          file_pattern: "SVG/*"
+          commit_author: "Anh Nguyen <anhngw@gmail.com>"
+          file_pattern: "SVG/* latest_tag.txt"
