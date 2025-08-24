@@ -37,10 +37,10 @@ jobs:
       - name: Download and extract
         if: steps.check_release.outputs.new_release == 'true'
         run: |
-          wget ${{ fromJson(steps.latest_release.outputs.result).zipball_url }} -O icons.zip
-          unzip -o icons.zip -d extracted
-          mv extracted/*/svg/* SVG/
-          rm -rf icons.zip extracted
+          latest_tag="${{ fromJson(steps.latest_release.outputs.result).tag_name }}"
+          curl -L "https://github.com/alexbakker/aegis-simple-icons/releases/download/${latest_tag}/aegis-simple-icons-${latest_tag}.zip" -o icons.zip
+          unzip -o icons.zip
+          rm -f icons.zip
 
       - name: Commit and push changes
         if: steps.check_release.outputs.new_release == 'true'
