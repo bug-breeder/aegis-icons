@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 208,
+    "version": 222,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1108,6 +1108,14 @@
             ]
         },
         {
+            "name": "Anime.js",
+            "filename": "SVG/animedotjs.svg",
+            "category": null,
+            "issuer": [
+                "Anime.js"
+            ]
+        },
+        {
             "name": "AnkerMake",
             "filename": "SVG/ankermake.svg",
             "category": null,
@@ -2156,6 +2164,14 @@
             ]
         },
         {
+            "name": "AvaloniaUI",
+            "filename": "SVG/avaloniaui.svg",
+            "category": null,
+            "issuer": [
+                "AvaloniaUI"
+            ]
+        },
+        {
             "name": "Avast",
             "filename": "SVG/avast.svg",
             "category": null,
@@ -2796,6 +2812,14 @@
             ]
         },
         {
+            "name": "Black",
+            "filename": "SVG/black.svg",
+            "category": null,
+            "issuer": [
+                "Black"
+            ]
+        },
+        {
             "name": "Blackberry",
             "filename": "SVG/blackberry.svg",
             "category": null,
@@ -3129,6 +3153,14 @@
             "category": null,
             "issuer": [
                 "Braintree"
+            ]
+        },
+        {
+            "name": "Braintrust",
+            "filename": "SVG/braintrust.svg",
+            "category": null,
+            "issuer": [
+                "Braintrust"
             ]
         },
         {
@@ -3593,6 +3625,14 @@
             "category": null,
             "issuer": [
                 "Cardano"
+            ]
+        },
+        {
+            "name": "Cardmarket",
+            "filename": "SVG/cardmarket.svg",
+            "category": null,
+            "issuer": [
+                "Cardmarket"
             ]
         },
         {
@@ -5708,6 +5748,14 @@
             ]
         },
         {
+            "name": "DeepMind",
+            "filename": "SVG/deepmind.svg",
+            "category": null,
+            "issuer": [
+                "DeepMind"
+            ]
+        },
+        {
             "name": "Deepnote",
             "filename": "SVG/deepnote.svg",
             "category": null,
@@ -6185,6 +6233,14 @@
             "category": null,
             "issuer": [
                 "Dolibarr"
+            ]
+        },
+        {
+            "name": "Dolphin",
+            "filename": "SVG/dolphin.svg",
+            "category": null,
+            "issuer": [
+                "Dolphin"
             ]
         },
         {
@@ -6905,6 +6961,14 @@
             "category": null,
             "issuer": [
                 "ENS"
+            ]
+        },
+        {
+            "name": "Ente",
+            "filename": "SVG/ente.svg",
+            "category": null,
+            "issuer": [
+                "Ente"
             ]
         },
         {
@@ -7908,6 +7972,14 @@
             ]
         },
         {
+            "name": "Folo",
+            "filename": "SVG/folo.svg",
+            "category": null,
+            "issuer": [
+                "Folo"
+            ]
+        },
+        {
             "name": "Fonoma",
             "filename": "SVG/fonoma.svg",
             "category": null,
@@ -8220,6 +8292,14 @@
             ]
         },
         {
+            "name": "FreshRSS",
+            "filename": "SVG/freshrss.svg",
+            "category": null,
+            "issuer": [
+                "FreshRSS"
+            ]
+        },
+        {
             "name": "Frigate",
             "filename": "SVG/frigate.svg",
             "category": null,
@@ -8436,6 +8516,14 @@
             ]
         },
         {
+            "name": "Garuda Linux",
+            "filename": "SVG/garudalinux.svg",
+            "category": null,
+            "issuer": [
+                "Garuda Linux"
+            ]
+        },
+        {
             "name": "Gatling",
             "filename": "SVG/gatling.svg",
             "category": null,
@@ -8601,6 +8689,14 @@
             "category": null,
             "issuer": [
                 "GitBook"
+            ]
+        },
+        {
+            "name": "GitCode",
+            "filename": "SVG/gitcode.svg",
+            "category": null,
+            "issuer": [
+                "GitCode"
             ]
         },
         {
@@ -9428,6 +9524,14 @@
             ]
         },
         {
+            "name": "GPLv3",
+            "filename": "SVG/gplv3.svg",
+            "category": null,
+            "issuer": [
+                "GPLv3"
+            ]
+        },
+        {
             "name": "Grab",
             "filename": "SVG/grab.svg",
             "category": null,
@@ -9564,6 +9668,14 @@
             ]
         },
         {
+            "name": "GreptimeDB",
+            "filename": "SVG/greptimedb.svg",
+            "category": null,
+            "issuer": [
+                "GreptimeDB"
+            ]
+        },
+        {
             "name": "Grid.ai",
             "filename": "SVG/griddotai.svg",
             "category": null,
@@ -9609,6 +9721,14 @@
             "category": null,
             "issuer": [
                 "Grunt"
+            ]
+        },
+        {
+            "name": "GSAP",
+            "filename": "SVG/gsap.svg",
+            "category": null,
+            "issuer": [
+                "GSAP"
             ]
         },
         {
@@ -10876,6 +10996,14 @@
             ]
         },
         {
+            "name": "Immersive Translate",
+            "filename": "SVG/immersivetranslate.svg",
+            "category": null,
+            "issuer": [
+                "Immersive Translate"
+            ]
+        },
+        {
             "name": "Immich",
             "filename": "SVG/immich.svg",
             "category": null,
@@ -12025,6 +12153,14 @@
             "category": null,
             "issuer": [
                 "Kentico"
+            ]
+        },
+        {
+            "name": "Keploy",
+            "filename": "SVG/keploy.svg",
+            "category": null,
+            "issuer": [
+                "Keploy"
             ]
         },
         {
@@ -13228,6 +13364,14 @@
             ]
         },
         {
+            "name": "LiveKit",
+            "filename": "SVG/livekit.svg",
+            "category": null,
+            "issuer": [
+                "LiveKit"
+            ]
+        },
+        {
             "name": "Livewire",
             "filename": "SVG/livewire.svg",
             "category": null,
@@ -13265,6 +13409,22 @@
             "category": null,
             "issuer": [
                 "Local"
+            ]
+        },
+        {
+            "name": "LocalSend",
+            "filename": "SVG/localsend.svg",
+            "category": null,
+            "issuer": [
+                "LocalSend"
+            ]
+        },
+        {
+            "name": "LocalXpose",
+            "filename": "SVG/localxpose.svg",
+            "category": null,
+            "issuer": [
+                "LocalXpose"
             ]
         },
         {
@@ -13393,6 +13553,14 @@
             "category": null,
             "issuer": [
                 "Lua"
+            ]
+        },
+        {
+            "name": "Luau",
+            "filename": "SVG/luau.svg",
+            "category": null,
+            "issuer": [
+                "Luau"
             ]
         },
         {
@@ -14548,6 +14716,14 @@
             ]
         },
         {
+            "name": "Model Context Protocol",
+            "filename": "SVG/modelcontextprotocol.svg",
+            "category": null,
+            "issuer": [
+                "Model Context Protocol"
+            ]
+        },
+        {
             "name": "Modin",
             "filename": "SVG/modin.svg",
             "category": null,
@@ -15636,6 +15812,14 @@
             ]
         },
         {
+            "name": "Note",
+            "filename": "SVG/note.svg",
+            "category": null,
+            "issuer": [
+                "Note"
+            ]
+        },
+        {
             "name": "NotebookLM",
             "filename": "SVG/notebooklm.svg",
             "category": null,
@@ -16476,6 +16660,14 @@
             ]
         },
         {
+            "name": "Optuna",
+            "filename": "SVG/optuna.svg",
+            "category": null,
+            "issuer": [
+                "Optuna"
+            ]
+        },
+        {
             "name": "Orange",
             "filename": "SVG/orange.svg",
             "category": null,
@@ -16633,6 +16825,14 @@
             "category": null,
             "issuer": [
                 "ownCloud"
+            ]
+        },
+        {
+            "name": "Oxc",
+            "filename": "SVG/oxc.svg",
+            "category": null,
+            "issuer": [
+                "Oxc"
             ]
         },
         {
@@ -16889,6 +17089,14 @@
             "category": null,
             "issuer": [
                 "Patreon"
+            ]
+        },
+        {
+            "name": "PAYBACK",
+            "filename": "SVG/payback.svg",
+            "category": null,
+            "issuer": [
+                "PAYBACK"
             ]
         },
         {
@@ -17345,6 +17553,14 @@
             "category": null,
             "issuer": [
                 "Pingdom"
+            ]
+        },
+        {
+            "name": "Pinia",
+            "filename": "SVG/pinia.svg",
+            "category": null,
+            "issuer": [
+                "Pinia"
             ]
         },
         {
@@ -18081,6 +18297,14 @@
             "category": null,
             "issuer": [
                 "Processing Foundation"
+            ]
+        },
+        {
+            "name": "ProcessOn",
+            "filename": "SVG/processon.svg",
+            "category": null,
+            "issuer": [
+                "ProcessOn"
             ]
         },
         {
@@ -18852,6 +19076,14 @@
             ]
         },
         {
+            "name": "RainYun",
+            "filename": "SVG/rainyun.svg",
+            "category": null,
+            "issuer": [
+                "RainYun"
+            ]
+        },
+        {
             "name": "Rakuten",
             "filename": "SVG/rakuten.svg",
             "category": null,
@@ -18913,6 +19145,14 @@
             "category": null,
             "issuer": [
                 "Raspberry Pi"
+            ]
+        },
+        {
+            "name": "Ratatui",
+            "filename": "SVG/ratatui.svg",
+            "category": null,
+            "issuer": [
+                "Ratatui"
             ]
         },
         {
@@ -19705,6 +19945,22 @@
             "category": null,
             "issuer": [
                 "Roll20"
+            ]
+        },
+        {
+            "name": "Rollbar",
+            "filename": "SVG/rollbar.svg",
+            "category": null,
+            "issuer": [
+                "Rollbar"
+            ]
+        },
+        {
+            "name": "Rolldown",
+            "filename": "SVG/rolldown.svg",
+            "category": null,
+            "issuer": [
+                "Rolldown"
             ]
         },
         {
@@ -20580,6 +20836,14 @@
             ]
         },
         {
+            "name": "ServBay",
+            "filename": "SVG/servbay.svg",
+            "category": null,
+            "issuer": [
+                "ServBay"
+            ]
+        },
+        {
             "name": "Server Fault",
             "filename": "SVG/serverfault.svg",
             "category": null,
@@ -20948,6 +21212,14 @@
             ]
         },
         {
+            "name": "Skeleton",
+            "filename": "SVG/skeleton.svg",
+            "category": null,
+            "issuer": [
+                "Skeleton"
+            ]
+        },
+        {
             "name": "Sketch",
             "filename": "SVG/sketch.svg",
             "category": null,
@@ -21081,6 +21353,14 @@
             "category": null,
             "issuer": [
                 "Smashing Magazine"
+            ]
+        },
+        {
+            "name": "Smoothcomp",
+            "filename": "SVG/smoothcomp.svg",
+            "category": null,
+            "issuer": [
+                "Smoothcomp"
             ]
         },
         {
@@ -22209,6 +22489,14 @@
             "category": null,
             "issuer": [
                 "Sui"
+            ]
+        },
+        {
+            "name": "Suitest",
+            "filename": "SVG/suitest.svg",
+            "category": null,
+            "issuer": [
+                "Suitest"
             ]
         },
         {
@@ -23372,6 +23660,14 @@
             ]
         },
         {
+            "name": "Tokio",
+            "filename": "SVG/tokio.svg",
+            "category": null,
+            "issuer": [
+                "Tokio"
+            ]
+        },
+        {
             "name": "Tokyo Metro",
             "filename": "SVG/tokyometro.svg",
             "category": null,
@@ -24316,6 +24612,14 @@
             ]
         },
         {
+            "name": "Unstop",
+            "filename": "SVG/unstop.svg",
+            "category": null,
+            "issuer": [
+                "Unstop"
+            ]
+        },
+        {
             "name": "Untappd",
             "filename": "SVG/untappd.svg",
             "category": null,
@@ -24748,6 +25052,14 @@
             ]
         },
         {
+            "name": "Vikunja",
+            "filename": "SVG/vikunja.svg",
+            "category": null,
+            "issuer": [
+                "Vikunja"
+            ]
+        },
+        {
             "name": "Vim",
             "filename": "SVG/vim.svg",
             "category": null,
@@ -24825,6 +25137,14 @@
             "category": null,
             "issuer": [
                 "Visa"
+            ]
+        },
+        {
+            "name": "Visual Paradigm",
+            "filename": "SVG/visualparadigm.svg",
+            "category": null,
+            "issuer": [
+                "Visual Paradigm"
             ]
         },
         {
@@ -25057,6 +25377,14 @@
             "category": null,
             "issuer": [
                 "Vuetify"
+            ]
+        },
+        {
+            "name": "VueUse",
+            "filename": "SVG/vueuse.svg",
+            "category": null,
+            "issuer": [
+                "VueUse"
             ]
         },
         {
@@ -25473,6 +25801,14 @@
             "category": null,
             "issuer": [
                 "WEMO"
+            ]
+        },
+        {
+            "name": "WeRead",
+            "filename": "SVG/weread.svg",
+            "category": null,
+            "issuer": [
+                "WeRead"
             ]
         },
         {
@@ -26028,6 +26364,14 @@
             ]
         },
         {
+            "name": "Yaak",
+            "filename": "SVG/yaak.svg",
+            "category": null,
+            "issuer": [
+                "Yaak"
+            ]
+        },
+        {
             "name": "yabai",
             "filename": "SVG/yabai.svg",
             "category": null,
@@ -26505,6 +26849,14 @@
             "category": null,
             "issuer": [
                 "Zoiper"
+            ]
+        },
+        {
+            "name": "Zola",
+            "filename": "SVG/zola.svg",
+            "category": null,
+            "issuer": [
+                "Zola"
             ]
         },
         {
