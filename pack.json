@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 222,
+    "version": 223,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -13625,6 +13625,14 @@
             "category": null,
             "issuer": [
                 "Lunacy"
+            ]
+        },
+        {
+            "name": "Luogu",
+            "filename": "SVG/luogu.svg",
+            "category": null,
+            "issuer": [
+                "Luogu"
             ]
         },
         {
