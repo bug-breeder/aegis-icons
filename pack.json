@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 223,
+    "version": 224,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1249,6 +1249,14 @@
             "category": null,
             "issuer": [
                 "Apache Ant"
+            ]
+        },
+        {
+            "name": "Apache Avro",
+            "filename": "SVG/apacheavro.svg",
+            "category": null,
+            "issuer": [
+                "Apache Avro"
             ]
         },
         {
@@ -4980,6 +4988,14 @@
             ]
         },
         {
+            "name": "Coolify",
+            "filename": "SVG/coolify.svg",
+            "category": null,
+            "issuer": [
+                "Coolify"
+            ]
+        },
+        {
             "name": "Co-op",
             "filename": "SVG/coop.svg",
             "category": null,
@@ -7753,6 +7769,14 @@
             "category": null,
             "issuer": [
                 "FIRST"
+            ]
+        },
+        {
+            "name": "Fish Audio",
+            "filename": "SVG/fishaudio.svg",
+            "category": null,
+            "issuer": [
+                "Fish Audio"
             ]
         },
         {
@@ -13305,6 +13329,14 @@
             "category": null,
             "issuer": [
                 "Liquibase"
+            ]
+        },
+        {
+            "name": "ListenHub",
+            "filename": "SVG/listenhub.svg",
+            "category": null,
+            "issuer": [
+                "ListenHub"
             ]
         },
         {
