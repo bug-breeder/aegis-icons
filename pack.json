@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 224,
+    "version": 225,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -12673,6 +12673,14 @@
             "category": null,
             "issuer": [
                 "Kyocera"
+            ]
+        },
+        {
+            "name": "LabEx",
+            "filename": "SVG/labex.svg",
+            "category": null,
+            "issuer": [
+                "LabEx"
             ]
         },
         {
