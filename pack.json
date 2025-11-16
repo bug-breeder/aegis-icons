@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 225,
+    "version": 226,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -5377,6 +5377,14 @@
             "category": null,
             "issuer": [
                 "CurseForge"
+            ]
+        },
+        {
+            "name": "Cursor",
+            "filename": "SVG/cursor.svg",
+            "category": null,
+            "issuer": [
+                "Cursor"
             ]
         },
         {
