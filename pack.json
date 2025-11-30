@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 227,
+    "version": 228,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -241,6 +241,14 @@
             "category": null,
             "issuer": [
                 "ACM"
+            ]
+        },
+        {
+            "name": "Acode",
+            "filename": "SVG/acode.svg",
+            "category": null,
+            "issuer": [
+                "Acode"
             ]
         },
         {
@@ -1628,6 +1636,14 @@
             ]
         },
         {
+            "name": "AppManager",
+            "filename": "SVG/appmanager.svg",
+            "category": null,
+            "issuer": [
+                "AppManager"
+            ]
+        },
+        {
             "name": "AppSignal",
             "filename": "SVG/appsignal.svg",
             "category": null,
@@ -2049,6 +2065,14 @@
             "category": null,
             "issuer": [
                 "Aurelia"
+            ]
+        },
+        {
+            "name": "Autentique",
+            "filename": "SVG/autentique.svg",
+            "category": null,
+            "issuer": [
+                "Autentique"
             ]
         },
         {
@@ -5532,6 +5556,14 @@
             ]
         },
         {
+            "name": "Dash0",
+            "filename": "SVG/dash0.svg",
+            "category": null,
+            "issuer": [
+                "Dash0"
+            ]
+        },
+        {
             "name": "Dashlane",
             "filename": "SVG/dashlane.svg",
             "category": null,
@@ -6225,6 +6257,14 @@
             "category": null,
             "issuer": [
                 "Docusaurus"
+            ]
+        },
+        {
+            "name": "Dodo Payments",
+            "filename": "SVG/dodopayments.svg",
+            "category": null,
+            "issuer": [
+                "Dodo Payments"
             ]
         },
         {
@@ -8860,6 +8900,14 @@
             ]
         },
         {
+            "name": "Glance",
+            "filename": "SVG/glance.svg",
+            "category": null,
+            "issuer": [
+                "Glance"
+            ]
+        },
+        {
             "name": "Glassdoor",
             "filename": "SVG/glassdoor.svg",
             "category": null,
@@ -10033,6 +10081,14 @@
             "category": null,
             "issuer": [
                 "HarmonyOS"
+            ]
+        },
+        {
+            "name": "Hashcat",
+            "filename": "SVG/hashcat.svg",
+            "category": null,
+            "issuer": [
+                "Hashcat"
             ]
         },
         {
@@ -12033,6 +12089,14 @@
             "category": null,
             "issuer": [
                 "Kamailio"
+            ]
+        },
+        {
+            "name": "Kando",
+            "filename": "SVG/kando.svg",
+            "category": null,
+            "issuer": [
+                "Kando"
             ]
         },
         {
@@ -16532,6 +16596,14 @@
             ]
         },
         {
+            "name": "OpenRouter",
+            "filename": "SVG/openrouter.svg",
+            "category": null,
+            "issuer": [
+                "OpenRouter"
+            ]
+        },
+        {
             "name": "OpenSCAD",
             "filename": "SVG/openscad.svg",
             "category": null,
@@ -19716,6 +19788,14 @@
             ]
         },
         {
+            "name": "Retro Achievements",
+            "filename": "SVG/retroachievements.svg",
+            "category": null,
+            "issuer": [
+                "Retro Achievements"
+            ]
+        },
+        {
             "name": "RetroArch",
             "filename": "SVG/retroarch.svg",
             "category": null,
@@ -20057,6 +20137,14 @@
             "category": null,
             "issuer": [
                 "Roon"
+            ]
+        },
+        {
+            "name": "ROOT",
+            "filename": "SVG/root.svg",
+            "category": null,
+            "issuer": [
+                "ROOT"
             ]
         },
         {
