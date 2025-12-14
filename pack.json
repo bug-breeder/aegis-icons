@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 229,
+    "version": 230,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1473,6 +1473,14 @@
             "category": null,
             "issuer": [
                 "Appian"
+            ]
+        },
+        {
+            "name": "AppImage",
+            "filename": "SVG/appimage.svg",
+            "category": null,
+            "issuer": [
+                "AppImage"
             ]
         },
         {
@@ -6812,6 +6820,14 @@
             ]
         },
         {
+            "name": "Elk",
+            "filename": "SVG/elk.svg",
+            "category": null,
+            "issuer": [
+                "Elk"
+            ]
+        },
+        {
             "name": "Elm",
             "filename": "SVG/elm.svg",
             "category": null,
@@ -8585,6 +8601,14 @@
             "category": null,
             "issuer": [
                 "Ghostery"
+            ]
+        },
+        {
+            "name": "Ghostty",
+            "filename": "SVG/ghostty.svg",
+            "category": null,
+            "issuer": [
+                "Ghostty"
             ]
         },
         {
@@ -13788,6 +13812,14 @@
             ]
         },
         {
+            "name": "Mangacollec",
+            "filename": "SVG/mangacollec.svg",
+            "category": null,
+            "issuer": [
+                "Mangacollec"
+            ]
+        },
+        {
             "name": "MangaUpdates",
             "filename": "SVG/mangaupdates.svg",
             "category": null,
@@ -15649,6 +15681,14 @@
             "category": null,
             "issuer": [
                 "Node.js"
+            ]
+        },
+        {
+            "name": "NodeGui",
+            "filename": "SVG/nodegui.svg",
+            "category": null,
+            "issuer": [
+                "NodeGui"
             ]
         },
         {
@@ -20809,6 +20849,14 @@
             "category": null,
             "issuer": [
                 "Setapp"
+            ]
+        },
+        {
+            "name": "Setuptools",
+            "filename": "SVG/setuptools.svg",
+            "category": null,
+            "issuer": [
+                "Setuptools"
             ]
         },
         {
