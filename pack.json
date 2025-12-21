@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 230,
+    "version": 231,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -2633,6 +2633,14 @@
             "category": null,
             "issuer": [
                 "Binance"
+            ]
+        },
+        {
+            "name": "Bioconductor",
+            "filename": "SVG/bioconductor.svg",
+            "category": null,
+            "issuer": [
+                "Bioconductor"
             ]
         },
         {
@@ -17633,6 +17641,14 @@
             "category": null,
             "issuer": [
                 "pkgsrc"
+            ]
+        },
+        {
+            "name": "Plane",
+            "filename": "SVG/plane.svg",
+            "category": null,
+            "issuer": [
+                "Plane"
             ]
         },
         {
