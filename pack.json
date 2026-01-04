@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 231,
+    "version": 232,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -7636,6 +7636,14 @@
             ]
         },
         {
+            "name": "Fillout",
+            "filename": "SVG/fillout.svg",
+            "category": null,
+            "issuer": [
+                "Fillout"
+            ]
+        },
+        {
             "name": "Fineco",
             "filename": "SVG/fineco.svg",
             "category": null,
@@ -9308,6 +9316,14 @@
             ]
         },
         {
+            "name": "Google Jules",
+            "filename": "SVG/googlejules.svg",
+            "category": null,
+            "issuer": [
+                "Google Jules"
+            ]
+        },
+        {
             "name": "Google Keep",
             "filename": "SVG/googlekeep.svg",
             "category": null,
@@ -9889,6 +9905,14 @@
             "category": null,
             "issuer": [
                 "HackerRank"
+            ]
+        },
+        {
+            "name": "HackMD",
+            "filename": "SVG/hackmd.svg",
+            "category": null,
+            "issuer": [
+                "HackMD"
             ]
         },
         {
@@ -11849,6 +11873,14 @@
             "category": null,
             "issuer": [
                 "Jupyter"
+            ]
+        },
+        {
+            "name": "Just",
+            "filename": "SVG/just.svg",
+            "category": null,
+            "issuer": [
+                "Just"
             ]
         },
         {
@@ -16308,6 +16340,14 @@
             ]
         },
         {
+            "name": "OpenCage",
+            "filename": "SVG/opencage.svg",
+            "category": null,
+            "issuer": [
+                "OpenCage"
+            ]
+        },
+        {
             "name": "Open Collective",
             "filename": "SVG/opencollective.svg",
             "category": null,
@@ -17969,6 +18009,14 @@
             "category": null,
             "issuer": [
                 "Polywork"
+            ]
+        },
+        {
+            "name": "Pomerium",
+            "filename": "SVG/pomerium.svg",
+            "category": null,
+            "issuer": [
+                "Pomerium"
             ]
         },
         {
