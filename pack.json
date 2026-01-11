@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 232,
+    "version": 233,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -2740,6 +2740,14 @@
             ]
         },
         {
+            "name": "Bitsy",
+            "filename": "SVG/bitsy.svg",
+            "category": null,
+            "issuer": [
+                "Bitsy"
+            ]
+        },
+        {
             "name": "BitTorrent",
             "filename": "SVG/bittorrent.svg",
             "category": null,
@@ -5396,11 +5404,11 @@
             ]
         },
         {
-            "name": "DaisyUI",
+            "name": "daisyUI",
             "filename": "SVG/daisyui.svg",
             "category": null,
             "issuer": [
-                "DaisyUI"
+                "daisyUI"
             ]
         },
         {
@@ -9588,6 +9596,14 @@
             ]
         },
         {
+            "name": "Graphite",
+            "filename": "SVG/graphite_editor.svg",
+            "category": null,
+            "issuer": [
+                "Graphite"
+            ]
+        },
+        {
             "name": "GraphQL",
             "filename": "SVG/graphql.svg",
             "category": null,
@@ -10953,6 +10969,14 @@
             "category": null,
             "issuer": [
                 "ImageJ"
+            ]
+        },
+        {
+            "name": "Image Toolbox",
+            "filename": "SVG/imagetoolbox.svg",
+            "category": null,
+            "issuer": [
+                "Image Toolbox"
             ]
         },
         {
@@ -14729,6 +14753,14 @@
             "category": null,
             "issuer": [
                 "Model Context Protocol"
+            ]
+        },
+        {
+            "name": "ModelScope",
+            "filename": "SVG/modelscope.svg",
+            "category": null,
+            "issuer": [
+                "ModelScope"
             ]
         },
         {
@@ -25633,6 +25665,14 @@
             "category": null,
             "issuer": [
                 "WebAuthn"
+            ]
+        },
+        {
+            "name": "Web Awesome",
+            "filename": "SVG/webawesome.svg",
+            "category": null,
+            "issuer": [
+                "Web Awesome"
             ]
         },
         {
