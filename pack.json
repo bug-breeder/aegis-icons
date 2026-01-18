@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 233,
+    "version": 234,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1004,6 +1004,14 @@
             ]
         },
         {
+            "name": "AniChart",
+            "filename": "SVG/anichart.svg",
+            "category": null,
+            "issuer": [
+                "AniChart"
+            ]
+        },
+        {
             "name": "AniList",
             "filename": "SVG/anilist.svg",
             "category": null,
@@ -1361,6 +1369,14 @@
             "category": null,
             "issuer": [
                 "Apache Parquet"
+            ]
+        },
+        {
+            "name": "Apache PDFBox",
+            "filename": "SVG/apachepdfbox.svg",
+            "category": null,
+            "issuer": [
+                "Apache PDFBox"
             ]
         },
         {
@@ -6668,6 +6684,14 @@
             ]
         },
         {
+            "name": "Effect",
+            "filename": "SVG/effect.svg",
+            "category": null,
+            "issuer": [
+                "Effect"
+            ]
+        },
+        {
             "name": "egghead",
             "filename": "SVG/egghead.svg",
             "category": null,
@@ -7865,6 +7889,14 @@
             "category": null,
             "issuer": [
                 "Floorp"
+            ]
+        },
+        {
+            "name": "Flower",
+            "filename": "SVG/flower.svg",
+            "category": null,
+            "issuer": [
+                "Flower"
             ]
         },
         {
@@ -15716,6 +15748,14 @@
             ]
         },
         {
+            "name": "niri",
+            "filename": "SVG/niri.svg",
+            "category": null,
+            "issuer": [
+                "niri"
+            ]
+        },
+        {
             "name": "Nissan",
             "filename": "SVG/nissan.svg",
             "category": null,
@@ -16180,6 +16220,14 @@
             ]
         },
         {
+            "name": "Odido",
+            "filename": "SVG/odido.svg",
+            "category": null,
+            "issuer": [
+                "Odido"
+            ]
+        },
+        {
             "name": "Odin",
             "filename": "SVG/odin.svg",
             "category": null,
@@ -16257,6 +16305,14 @@
             "category": null,
             "issuer": [
                 "Omada Cloud"
+            ]
+        },
+        {
+            "name": "Omarchy",
+            "filename": "SVG/omarchy.svg",
+            "category": null,
+            "issuer": [
+                "Omarchy"
             ]
         },
         {
@@ -17633,6 +17689,14 @@
             "category": null,
             "issuer": [
                 "Pioneer DJ"
+            ]
+        },
+        {
+            "name": "Pipecat",
+            "filename": "SVG/pipecat.svg",
+            "category": null,
+            "issuer": [
+                "Pipecat"
             ]
         },
         {
@@ -19548,6 +19612,14 @@
             ]
         },
         {
+            "name": "Reflex",
+            "filename": "SVG/reflex.svg",
+            "category": null,
+            "issuer": [
+                "Reflex"
+            ]
+        },
+        {
             "name": "Reka UI",
             "filename": "SVG/rekaui.svg",
             "category": null,
@@ -20577,6 +20649,14 @@
             "category": null,
             "issuer": [
                 "Scaleway"
+            ]
+        },
+        {
+            "name": "Scan",
+            "filename": "SVG/scan.svg",
+            "category": null,
+            "issuer": [
+                "Scan"
             ]
         },
         {
