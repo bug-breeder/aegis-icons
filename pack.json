@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 234,
+    "version": 235,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -3956,6 +3956,14 @@
             ]
         },
         {
+            "name": "China Railway",
+            "filename": "SVG/chinarailway.svg",
+            "category": null,
+            "issuer": [
+                "China Railway"
+            ]
+        },
+        {
             "name": "China Southern Airlines",
             "filename": "SVG/chinasouthernairlines.svg",
             "category": null,
@@ -4972,6 +4980,14 @@
             ]
         },
         {
+            "name": "Coreboot",
+            "filename": "SVG/coreboot.svg",
+            "category": null,
+            "issuer": [
+                "Coreboot"
+            ]
+        },
+        {
             "name": "CorelDRAW",
             "filename": "SVG/coreldraw.svg",
             "category": null,
@@ -5881,6 +5897,14 @@
             "category": null,
             "issuer": [
                 "dev.to"
+            ]
+        },
+        {
+            "name": "Development Containers",
+            "filename": "SVG/developmentcontainers.svg",
+            "category": null,
+            "issuer": [
+                "Development Containers"
             ]
         },
         {
@@ -18268,6 +18292,14 @@
             ]
         },
         {
+            "name": "prek",
+            "filename": "SVG/prek.svg",
+            "category": null,
+            "issuer": [
+                "prek"
+            ]
+        },
+        {
             "name": "PreMiD",
             "filename": "SVG/premid.svg",
             "category": null,
@@ -23537,6 +23569,14 @@
             "category": null,
             "issuer": [
                 "Thingiverse"
+            ]
+        },
+        {
+            "name": "Things",
+            "filename": "SVG/things.svg",
+            "category": null,
+            "issuer": [
+                "Things"
             ]
         },
         {
