@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 236,
+    "version": 237,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -4924,6 +4924,14 @@
             ]
         },
         {
+            "name": "Convex",
+            "filename": "SVG/convex.svg",
+            "category": null,
+            "issuer": [
+                "Convex"
+            ]
+        },
+        {
             "name": "Cookiecutter",
             "filename": "SVG/cookiecutter.svg",
             "category": null,
@@ -5937,6 +5945,14 @@
             "category": null,
             "issuer": [
                 "devRant"
+            ]
+        },
+        {
+            "name": "Devuan",
+            "filename": "SVG/devuan.svg",
+            "category": null,
+            "issuer": [
+                "Devuan"
             ]
         },
         {
@@ -11204,6 +11220,14 @@
             ]
         },
         {
+            "name": "Infuse",
+            "filename": "SVG/infuse.svg",
+            "category": null,
+            "issuer": [
+                "Infuse"
+            ]
+        },
+        {
             "name": "Ingress",
             "filename": "SVG/ingress.svg",
             "category": null,
@@ -12505,6 +12529,14 @@
             "category": null,
             "issuer": [
                 "Kodi"
+            ]
+        },
+        {
+            "name": "Kodular",
+            "filename": "SVG/kodular.svg",
+            "category": null,
+            "issuer": [
+                "Kodular"
             ]
         },
         {
@@ -16833,6 +16865,14 @@
             "category": null,
             "issuer": [
                 "Origin"
+            ]
+        },
+        {
+            "name": "Ory",
+            "filename": "SVG/ory.svg",
+            "category": null,
+            "issuer": [
+                "Ory"
             ]
         },
         {
