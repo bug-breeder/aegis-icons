@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 237,
+    "version": 238,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -5756,6 +5756,14 @@
             ]
         },
         {
+            "name": "Deezer",
+            "filename": "SVG/deezer.svg",
+            "category": null,
+            "issuer": [
+                "Deezer"
+            ]
+        },
+        {
             "name": "Deliveroo",
             "filename": "SVG/deliveroo.svg",
             "category": null,
@@ -5809,6 +5817,14 @@
             "category": null,
             "issuer": [
                 "Deno"
+            ]
+        },
+        {
+            "name": "Deno Deploy",
+            "filename": "SVG/denodeploy.svg",
+            "category": null,
+            "issuer": [
+                "Deno Deploy"
             ]
         },
         {
@@ -15404,6 +15420,14 @@
             ]
         },
         {
+            "name": "NDI",
+            "filename": "SVG/ndi.svg",
+            "category": null,
+            "issuer": [
+                "NDI"
+            ]
+        },
+        {
             "name": "NDR",
             "filename": "SVG/ndr.svg",
             "category": null,
@@ -17145,6 +17169,14 @@
             "category": null,
             "issuer": [
                 "pandas"
+            ]
+        },
+        {
+            "name": "Pandoc",
+            "filename": "SVG/pandoc.svg",
+            "category": null,
+            "issuer": [
+                "Pandoc"
             ]
         },
         {
