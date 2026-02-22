@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 238,
+    "version": 239,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -11156,6 +11156,14 @@
             ]
         },
         {
+            "name": "IndieWeb",
+            "filename": "SVG/indieweb.svg",
+            "category": null,
+            "issuer": [
+                "IndieWeb"
+            ]
+        },
+        {
             "name": "IndiGo",
             "filename": "SVG/indigo.svg",
             "category": null,
@@ -16849,6 +16857,14 @@
             "category": null,
             "issuer": [
                 "Orange"
+            ]
+        },
+        {
+            "name": "Orchard Core",
+            "filename": "SVG/orchardcore.svg",
+            "category": null,
+            "issuer": [
+                "Orchard Core"
             ]
         },
         {
@@ -22772,6 +22788,14 @@
             ]
         },
         {
+            "name": "Supercell",
+            "filename": "SVG/supercell.svg",
+            "category": null,
+            "issuer": [
+                "Supercell"
+            ]
+        },
+        {
             "name": "Supercrease",
             "filename": "SVG/supercrease.svg",
             "category": null,
@@ -23177,6 +23201,14 @@
             "category": null,
             "issuer": [
                 "TAROM"
+            ]
+        },
+        {
+            "name": "Tarteaucitron",
+            "filename": "SVG/tarteaucitron.svg",
+            "category": null,
+            "issuer": [
+                "Tarteaucitron"
             ]
         },
         {
