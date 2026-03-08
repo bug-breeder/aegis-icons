@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 239,
+    "version": 240,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -2393,6 +2393,14 @@
             "category": null,
             "issuer": [
                 "Baserow"
+            ]
+        },
+        {
+            "name": "Base UI",
+            "filename": "SVG/baseui.svg",
+            "category": null,
+            "issuer": [
+                "Base UI"
             ]
         },
         {
@@ -8716,6 +8724,14 @@
             ]
         },
         {
+            "name": "Ghostfolio",
+            "filename": "SVG/ghostfolio.svg",
+            "category": null,
+            "issuer": [
+                "Ghostfolio"
+            ]
+        },
+        {
             "name": "Ghostty",
             "filename": "SVG/ghostty.svg",
             "category": null,
@@ -12124,6 +12140,14 @@
             ]
         },
         {
+            "name": "Karakeep",
+            "filename": "SVG/karakeep.svg",
+            "category": null,
+            "issuer": [
+                "Karakeep"
+            ]
+        },
+        {
             "name": "Karlsruher Verkehrsverbund",
             "filename": "SVG/karlsruherverkehrsverbund.svg",
             "category": null,
@@ -13348,6 +13372,14 @@
             ]
         },
         {
+            "name": "Linkvertise",
+            "filename": "SVG/linkvertise.svg",
+            "category": null,
+            "issuer": [
+                "Linkvertise"
+            ]
+        },
+        {
             "name": "Linphone",
             "filename": "SVG/linphone.svg",
             "category": null,
@@ -13617,6 +13649,14 @@
             "category": null,
             "issuer": [
                 "LoopBack"
+            ]
+        },
+        {
+            "name": "Loops",
+            "filename": "SVG/loops.svg",
+            "category": null,
+            "issuer": [
+                "Loops"
             ]
         },
         {
@@ -17201,6 +17241,14 @@
             "category": null,
             "issuer": [
                 "Pandora"
+            ]
+        },
+        {
+            "name": "Pangolin",
+            "filename": "SVG/pangolin.svg",
+            "category": null,
+            "issuer": [
+                "Pangolin"
             ]
         },
         {
@@ -21796,6 +21844,14 @@
             ]
         },
         {
+            "name": "solved.ac",
+            "filename": "SVG/solveddotac.svg",
+            "category": null,
+            "issuer": [
+                "solved.ac"
+            ]
+        },
+        {
             "name": "Sonar",
             "filename": "SVG/sonar.svg",
             "category": null,
@@ -23796,6 +23852,14 @@
             ]
         },
         {
+            "name": "TiDB",
+            "filename": "SVG/tidb.svg",
+            "category": null,
+            "issuer": [
+                "TiDB"
+            ]
+        },
+        {
             "name": "TiddlyWiki",
             "filename": "SVG/tiddlywiki.svg",
             "category": null,
@@ -24249,6 +24313,14 @@
             "category": null,
             "issuer": [
                 "Treyarch"
+            ]
+        },
+        {
+            "name": "Trezor",
+            "filename": "SVG/trezor.svg",
+            "category": null,
+            "issuer": [
+                "Trezor"
             ]
         },
         {
@@ -26713,6 +26785,14 @@
             "category": null,
             "issuer": [
                 "Yeti"
+            ]
+        },
+        {
+            "name": "Yew",
+            "filename": "SVG/yew.svg",
+            "category": null,
+            "issuer": [
+                "Yew"
             ]
         },
         {
