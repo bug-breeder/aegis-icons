@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 240,
+    "version": 241,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -4180,6 +4180,14 @@
             ]
         },
         {
+            "name": "Cline",
+            "filename": "SVG/cline.svg",
+            "category": null,
+            "issuer": [
+                "Cline"
+            ]
+        },
+        {
             "name": "CLion",
             "filename": "SVG/clion.svg",
             "category": null,
@@ -6177,6 +6185,14 @@
             "category": null,
             "issuer": [
                 "DLNA"
+            ]
+        },
+        {
+            "name": "dlthub",
+            "filename": "SVG/dlthub.svg",
+            "category": null,
+            "issuer": [
+                "dlthub"
             ]
         },
         {
@@ -13617,6 +13633,14 @@
             "category": null,
             "issuer": [
                 "Logstash"
+            ]
+        },
+        {
+            "name": "Longhorn",
+            "filename": "SVG/longhorn.svg",
+            "category": null,
+            "issuer": [
+                "Longhorn"
             ]
         },
         {
