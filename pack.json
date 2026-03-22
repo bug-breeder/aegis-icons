@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 241,
+    "version": 242,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -4892,6 +4892,14 @@
             ]
         },
         {
+            "name": "Contensis",
+            "filename": "SVG/contensis.svg",
+            "category": null,
+            "issuer": [
+                "Contensis"
+            ]
+        },
+        {
             "name": "Contentful",
             "filename": "SVG/contentful.svg",
             "category": null,
@@ -6025,6 +6033,14 @@
             "category": null,
             "issuer": [
                 "Diaspora"
+            ]
+        },
+        {
+            "name": "DiceBear",
+            "filename": "SVG/dicebear.svg",
+            "category": null,
+            "issuer": [
+                "DiceBear"
             ]
         },
         {
