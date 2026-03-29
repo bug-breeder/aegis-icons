@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 242,
+    "version": 243,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -6049,6 +6049,14 @@
             "category": null,
             "issuer": [
                 "Dictionary.com"
+            ]
+        },
+        {
+            "name": "Dify",
+            "filename": "SVG/dify.svg",
+            "category": null,
+            "issuer": [
+                "Dify"
             ]
         },
         {
@@ -16580,6 +16588,14 @@
             ]
         },
         {
+            "name": "OpenBao",
+            "filename": "SVG/openbao.svg",
+            "category": null,
+            "issuer": [
+                "OpenBao"
+            ]
+        },
+        {
             "name": "OpenBSD",
             "filename": "SVG/openbsd.svg",
             "category": null,
@@ -19060,11 +19076,11 @@
             ]
         },
         {
-            "name": "Qgis",
+            "name": "QGIS",
             "filename": "SVG/qgis.svg",
             "category": null,
             "issuer": [
-                "Qgis"
+                "QGIS"
             ]
         },
         {
