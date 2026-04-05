@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 243,
+    "version": 244,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -7457,6 +7457,14 @@
             "category": null,
             "issuer": [
                 "Fairphone"
+            ]
+        },
+        {
+            "name": "Faker",
+            "filename": "SVG/faker.svg",
+            "category": null,
+            "issuer": [
+                "Faker"
             ]
         },
         {
@@ -18708,6 +18716,14 @@
             ]
         },
         {
+            "name": "ProseMirror",
+            "filename": "SVG/prosemirror.svg",
+            "category": null,
+            "issuer": [
+                "ProseMirror"
+            ]
+        },
+        {
             "name": "ProSieben",
             "filename": "SVG/prosieben.svg",
             "category": null,
@@ -19065,6 +19081,14 @@
             "category": null,
             "issuer": [
                 "qbittorrent"
+            ]
+        },
+        {
+            "name": "Qdrant",
+            "filename": "SVG/qdrant.svg",
+            "category": null,
+            "issuer": [
+                "Qdrant"
             ]
         },
         {
