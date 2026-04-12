@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 244,
+    "version": 245,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -20652,6 +20652,14 @@
             ]
         },
         {
+            "name": "RustFS",
+            "filename": "SVG/rustfs.svg",
+            "category": null,
+            "issuer": [
+                "RustFS"
+            ]
+        },
+        {
             "name": "RxDB",
             "filename": "SVG/rxdb.svg",
             "category": null,
@@ -22193,6 +22201,14 @@
             "category": null,
             "issuer": [
                 "Sphinx"
+            ]
+        },
+        {
+            "name": "SpiderMonkey",
+            "filename": "SVG/spidermonkey.svg",
+            "category": null,
+            "issuer": [
+                "SpiderMonkey"
             ]
         },
         {
@@ -24689,6 +24705,14 @@
             "category": null,
             "issuer": [
                 "Twitch"
+            ]
+        },
+        {
+            "name": "ty",
+            "filename": "SVG/ty.svg",
+            "category": null,
+            "issuer": [
+                "ty"
             ]
         },
         {
