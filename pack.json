@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 245,
+    "version": 246,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -3465,6 +3465,14 @@
             "category": null,
             "issuer": [
                 "Cachet"
+            ]
+        },
+        {
+            "name": "CachyOS",
+            "filename": "SVG/cachyos.svg",
+            "category": null,
+            "issuer": [
+                "CachyOS"
             ]
         },
         {
@@ -8049,6 +8057,14 @@
             "category": null,
             "issuer": [
                 "Flux"
+            ]
+        },
+        {
+            "name": "Fluxer",
+            "filename": "SVG/fluxer.svg",
+            "category": null,
+            "issuer": [
+                "Fluxer"
             ]
         },
         {
@@ -24497,6 +24513,14 @@
             "category": null,
             "issuer": [
                 "Trivy"
+            ]
+        },
+        {
+            "name": "TRMNL",
+            "filename": "SVG/trmnl.svg",
+            "category": null,
+            "issuer": [
+                "TRMNL"
             ]
         },
         {
