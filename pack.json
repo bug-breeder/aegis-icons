@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 246,
+    "version": 247,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -13652,6 +13652,14 @@
             ]
         },
         {
+            "name": "Locust",
+            "filename": "SVG/locust.svg",
+            "category": null,
+            "issuer": [
+                "Locust"
+            ]
+        },
+        {
             "name": "Lodash",
             "filename": "SVG/lodash.svg",
             "category": null,
@@ -25721,6 +25729,14 @@
             "category": null,
             "issuer": [
                 "VLC media player"
+            ]
+        },
+        {
+            "name": "vLLM",
+            "filename": "SVG/vllm.svg",
+            "category": null,
+            "issuer": [
+                "vLLM"
             ]
         },
         {
