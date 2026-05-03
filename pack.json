@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 247,
+    "version": 248,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -5785,6 +5785,14 @@
             "category": null,
             "issuer": [
                 "Deepnote"
+            ]
+        },
+        {
+            "name": "DeepSeek",
+            "filename": "SVG/deepseek.svg",
+            "category": null,
+            "issuer": [
+                "DeepSeek"
             ]
         },
         {
@@ -15164,6 +15172,14 @@
             ]
         },
         {
+            "name": "Moonshot AI",
+            "filename": "SVG/moonshotai.svg",
+            "category": null,
+            "issuer": [
+                "Moonshot AI"
+            ]
+        },
+        {
             "name": "Moq",
             "filename": "SVG/moq.svg",
             "category": null,
@@ -15601,6 +15617,14 @@
             "category": null,
             "issuer": [
                 "Neo4j"
+            ]
+        },
+        {
+            "name": "Neon",
+            "filename": "SVG/neon.svg",
+            "category": null,
+            "issuer": [
+                "Neon"
             ]
         },
         {
@@ -19361,6 +19385,14 @@
             "category": null,
             "issuer": [
                 "Qwant"
+            ]
+        },
+        {
+            "name": "QWen",
+            "filename": "SVG/qwen.svg",
+            "category": null,
+            "issuer": [
+                "QWen"
             ]
         },
         {
