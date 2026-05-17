@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 249,
+    "version": 250,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -4049,6 +4049,14 @@
             "category": null,
             "issuer": [
                 "Cinnamon"
+            ]
+        },
+        {
+            "name": "Cinny",
+            "filename": "SVG/cinny.svg",
+            "category": null,
+            "issuer": [
+                "Cinny"
             ]
         },
         {
@@ -10364,6 +10372,14 @@
             ]
         },
         {
+            "name": "Helium Browser",
+            "filename": "SVG/heliumbrowser.svg",
+            "category": null,
+            "issuer": [
+                "Helium Browser"
+            ]
+        },
+        {
             "name": "Helix",
             "filename": "SVG/helix.svg",
             "category": null,
@@ -12905,6 +12921,14 @@
             "category": null,
             "issuer": [
                 "LangChain"
+            ]
+        },
+        {
+            "name": "LangChain Corporate",
+            "filename": "SVG/langchaincorporate.svg",
+            "category": null,
+            "issuer": [
+                "LangChain Corporate"
             ]
         },
         {
