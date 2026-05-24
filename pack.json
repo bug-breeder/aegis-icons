@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 250,
+    "version": 251,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -24009,6 +24009,14 @@
             "category": null,
             "issuer": [
                 "Ticketmaster"
+            ]
+        },
+        {
+            "name": "Ticket Tailor",
+            "filename": "SVG/tickettailor.svg",
+            "category": null,
+            "issuer": [
+                "Ticket Tailor"
             ]
         },
         {
