@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 251,
+    "version": 252,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -2153,6 +2153,14 @@
             "category": null,
             "issuer": [
                 "AVM"
+            ]
+        },
+        {
+            "name": "Await",
+            "filename": "SVG/await.svg",
+            "category": null,
+            "issuer": [
+                "Await"
             ]
         },
         {
@@ -13652,6 +13660,14 @@
             ]
         },
         {
+            "name": "LM Studio",
+            "filename": "SVG/lmstudio.svg",
+            "category": null,
+            "issuer": [
+                "LM Studio"
+            ]
+        },
+        {
             "name": "Lobsters",
             "filename": "SVG/lobsters.svg",
             "category": null,
@@ -16921,6 +16937,14 @@
             "category": null,
             "issuer": [
                 "OpenTofu"
+            ]
+        },
+        {
+            "name": "OpenTUI",
+            "filename": "SVG/opentui.svg",
+            "category": null,
+            "issuer": [
+                "OpenTUI"
             ]
         },
         {
