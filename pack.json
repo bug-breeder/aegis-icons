@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 252,
+    "version": 253,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1169,6 +1169,14 @@
             "category": null,
             "issuer": [
                 "Apache Ant"
+            ]
+        },
+        {
+            "name": "Apache Arrow",
+            "filename": "SVG/apachearrow.svg",
+            "category": null,
+            "issuer": [
+                "Apache Arrow"
             ]
         },
         {
@@ -4169,6 +4177,14 @@
             "category": null,
             "issuer": [
                 "Claude"
+            ]
+        },
+        {
+            "name": "Claude Code",
+            "filename": "SVG/claudecode.svg",
+            "category": null,
+            "issuer": [
+                "Claude Code"
             ]
         },
         {
