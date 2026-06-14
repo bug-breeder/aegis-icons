@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 253,
+    "version": 254,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -481,6 +481,14 @@
             "category": null,
             "issuer": [
                 "AfterShip"
+            ]
+        },
+        {
+            "name": "Agent Skills",
+            "filename": "SVG/agentskills.svg",
+            "category": null,
+            "issuer": [
+                "Agent Skills"
             ]
         },
         {
@@ -13972,6 +13980,14 @@
             ]
         },
         {
+            "name": "M5Stack",
+            "filename": "SVG/m5stack.svg",
+            "category": null,
+            "issuer": [
+                "M5Stack"
+            ]
+        },
+        {
             "name": "MAAS",
             "filename": "SVG/maas.svg",
             "category": null,
@@ -16732,6 +16748,14 @@
             ]
         },
         {
+            "name": "OpenCode",
+            "filename": "SVG/opencode.svg",
+            "category": null,
+            "issuer": [
+                "OpenCode"
+            ]
+        },
+        {
             "name": "Open Collective",
             "filename": "SVG/opencollective.svg",
             "category": null,
@@ -17873,6 +17897,14 @@
             "category": null,
             "issuer": [
                 "PhpStorm"
+            ]
+        },
+        {
+            "name": "Pi",
+            "filename": "SVG/pi.svg",
+            "category": null,
+            "issuer": [
+                "Pi"
             ]
         },
         {
