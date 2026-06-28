@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 254,
+    "version": 255,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -7660,6 +7660,14 @@
             ]
         },
         {
+            "name": "Fawry",
+            "filename": "SVG/fawry.svg",
+            "category": null,
+            "issuer": [
+                "Fawry"
+            ]
+        },
+        {
             "name": "FCC",
             "filename": "SVG/fcc.svg",
             "category": null,
@@ -14676,6 +14684,14 @@
             ]
         },
         {
+            "name": "Meta AI",
+            "filename": "SVG/metaai.svg",
+            "category": null,
+            "issuer": [
+                "Meta AI"
+            ]
+        },
+        {
             "name": "Metabase",
             "filename": "SVG/metabase.svg",
             "category": null,
@@ -19564,6 +19580,14 @@
             ]
         },
         {
+            "name": "Radiant Earth",
+            "filename": "SVG/radiantearth.svg",
+            "category": null,
+            "issuer": [
+                "Radiant Earth"
+            ]
+        },
+        {
             "name": "Radio France",
             "filename": "SVG/radiofrance.svg",
             "category": null,
@@ -23465,6 +23489,14 @@
             "category": null,
             "issuer": [
                 "Tampermonkey"
+            ]
+        },
+        {
+            "name": "Tangled",
+            "filename": "SVG/tangled.svg",
+            "category": null,
+            "issuer": [
+                "Tangled"
             ]
         },
         {
