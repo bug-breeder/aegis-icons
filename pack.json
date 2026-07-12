@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 256,
+    "version": 257,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -9041,6 +9041,14 @@
             "category": null,
             "issuer": [
                 "Glance"
+            ]
+        },
+        {
+            "name": "Glass",
+            "filename": "SVG/glass.svg",
+            "category": null,
+            "issuer": [
+                "Glass"
             ]
         },
         {
