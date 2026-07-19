@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 257,
+    "version": 258,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -12545,6 +12545,14 @@
             "category": null,
             "issuer": [
                 "Kik"
+            ]
+        },
+        {
+            "name": "KIMI",
+            "filename": "SVG/kimi.svg",
+            "category": null,
+            "issuer": [
+                "KIMI"
             ]
         },
         {
@@ -27313,6 +27321,14 @@
             "category": null,
             "issuer": [
                 "ZDF"
+            ]
+        },
+        {
+            "name": "Z.ai",
+            "filename": "SVG/zdotai.svg",
+            "category": null,
+            "issuer": [
+                "Z.ai"
             ]
         },
         {
