@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 260,
+    "version": 261,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -24508,6 +24508,14 @@
             ]
         },
         {
+            "name": "TRAE",
+            "filename": "SVG/trae.svg",
+            "category": null,
+            "issuer": [
+                "TRAE"
+            ]
+        },
+        {
             "name": "Traefik Mesh",
             "filename": "SVG/traefikmesh.svg",
             "category": null,
@@ -27356,6 +27364,14 @@
             ]
         },
         {
+            "name": "ZecTrix",
+            "filename": "SVG/zectrix.svg",
+            "category": null,
+            "issuer": [
+                "ZecTrix"
+            ]
+        },
+        {
             "name": "Zed Industries",
             "filename": "SVG/zedindustries.svg",
             "category": null,
@@ -27593,6 +27609,14 @@
             "category": null,
             "issuer": [
                 "Zulip"
+            ]
+        },
+        {
+            "name": "zx",
+            "filename": "SVG/zx.svg",
+            "category": null,
+            "issuer": [
+                "zx"
             ]
         },
         {
