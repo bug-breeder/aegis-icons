@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 261,
+    "version": 262,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -721,6 +721,14 @@
             "category": null,
             "issuer": [
                 "Albert Heijn"
+            ]
+        },
+        {
+            "name": "Album of the Year",
+            "filename": "SVG/albumoftheyear.svg",
+            "category": null,
+            "issuer": [
+                "Album of the Year"
             ]
         },
         {
@@ -21724,6 +21732,14 @@
             ]
         },
         {
+            "name": "Simple Icons CDN",
+            "filename": "SVG/simpleiconscdn.svg",
+            "category": null,
+            "issuer": [
+                "Simple Icons CDN"
+            ]
+        },
+        {
             "name": "SimpleLocalize",
             "filename": "SVG/simplelocalize.svg",
             "category": null,
@@ -23748,6 +23764,14 @@
             ]
         },
         {
+            "name": "Tencent Hy",
+            "filename": "SVG/tencenthy.svg",
+            "category": null,
+            "issuer": [
+                "Tencent Hy"
+            ]
+        },
+        {
             "name": "TensorFlow",
             "filename": "SVG/tensorflow.svg",
             "category": null,
@@ -24593,6 +24617,14 @@
             "category": null,
             "issuer": [
                 "Travis CI"
+            ]
+        },
+        {
+            "name": "Traxsource",
+            "filename": "SVG/traxsource.svg",
+            "category": null,
+            "issuer": [
+                "Traxsource"
             ]
         },
         {
