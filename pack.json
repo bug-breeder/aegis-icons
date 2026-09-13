@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 262,
+    "version": 263,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1945,6 +1945,14 @@
             "category": null,
             "issuer": [
                 "Atlassian"
+            ]
+        },
+        {
+            "name": "AtomGit",
+            "filename": "SVG/atomgit.svg",
+            "category": null,
+            "issuer": [
+                "AtomGit"
             ]
         },
         {
@@ -16713,6 +16721,14 @@
             "category": null,
             "issuer": [
                 "OnStar"
+            ]
+        },
+        {
+            "name": "OOMOL",
+            "filename": "SVG/oomol.svg",
+            "category": null,
+            "issuer": [
+                "OOMOL"
             ]
         },
         {
