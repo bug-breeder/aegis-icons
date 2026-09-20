@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 263,
+    "version": 264,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -865,6 +865,14 @@
             "category": null,
             "issuer": [
                 "AlmaLinux"
+            ]
+        },
+        {
+            "name": "alphaXiv",
+            "filename": "SVG/alphaxiv.svg",
+            "category": null,
+            "issuer": [
+                "alphaXiv"
             ]
         },
         {
