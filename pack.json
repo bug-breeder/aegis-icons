@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 264,
+    "version": 265,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -9257,6 +9257,14 @@
             "category": null,
             "issuer": [
                 "Godot Engine"
+            ]
+        },
+        {
+            "name": "Godox",
+            "filename": "SVG/godox.svg",
+            "category": null,
+            "issuer": [
+                "Godox"
             ]
         },
         {
