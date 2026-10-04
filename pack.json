@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 265,
+    "version": 266,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -10996,6 +10996,14 @@
             ]
         },
         {
+            "name": "Hypit",
+            "filename": "SVG/hypit.svg",
+            "category": null,
+            "issuer": [
+                "Hypit"
+            ]
+        },
+        {
             "name": "Hypothesis",
             "filename": "SVG/hypothesis.svg",
             "category": null,
@@ -16281,6 +16289,14 @@
             "category": null,
             "issuer": [
                 "Notepad++"
+            ]
+        },
+        {
+            "name": "Notesnook",
+            "filename": "SVG/notesnook.svg",
+            "category": null,
+            "issuer": [
+                "Notesnook"
             ]
         },
         {
