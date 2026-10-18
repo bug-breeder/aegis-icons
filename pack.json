@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 267,
+    "version": 268,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -1865,6 +1865,14 @@
             "category": null,
             "issuer": [
                 "Aseprite"
+            ]
+        },
+        {
+            "name": "Aspire",
+            "filename": "SVG/aspire.svg",
+            "category": null,
+            "issuer": [
+                "Aspire"
             ]
         },
         {
@@ -27521,6 +27529,14 @@
             "category": null,
             "issuer": [
                 "Zensar"
+            ]
+        },
+        {
+            "name": "Zensical",
+            "filename": "SVG/zensical.svg",
+            "category": null,
+            "issuer": [
+                "Zensical"
             ]
         },
         {
