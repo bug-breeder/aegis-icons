@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 269,
+    "version": 270,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -15916,6 +15916,14 @@
             ]
         },
         {
+            "name": "New API",
+            "filename": "SVG/newapi.svg",
+            "category": null,
+            "issuer": [
+                "New API"
+            ]
+        },
+        {
             "name": "New Balance",
             "filename": "SVG/newbalance.svg",
             "category": null,
@@ -16561,6 +16569,14 @@
             "category": null,
             "issuer": [
                 "OCaml"
+            ]
+        },
+        {
+            "name": "OceanBase",
+            "filename": "SVG/oceanbase.svg",
+            "category": null,
+            "issuer": [
+                "OceanBase"
             ]
         },
         {
@@ -27617,6 +27633,14 @@
             "category": null,
             "issuer": [
                 "Zilch"
+            ]
+        },
+        {
+            "name": "Zilliz",
+            "filename": "SVG/zilliz.svg",
+            "category": null,
+            "issuer": [
+                "Zilliz"
             ]
         },
         {
