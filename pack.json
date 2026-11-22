@@ -1,7 +1,7 @@
 {
     "uuid": "6a371ea0-1178-4677-ae93-cda7a7a5b378",
     "name": "Aegis Simple Icons",
-    "version": 270,
+    "version": 271,
     "icons": [
         {
             "name": "1001Tracklists",
@@ -12668,6 +12668,14 @@
             ]
         },
         {
+            "name": "kitty",
+            "filename": "SVG/kitty.svg",
+            "category": null,
+            "issuer": [
+                "kitty"
+            ]
+        },
+        {
             "name": "Kiwix",
             "filename": "SVG/kiwix.svg",
             "category": null,
@@ -24641,6 +24649,14 @@
             "category": null,
             "issuer": [
                 "Traefik Proxy"
+            ]
+        },
+        {
+            "name": "Traffic.cv",
+            "filename": "SVG/trafficdotcv.svg",
+            "category": null,
+            "issuer": [
+                "Traffic.cv"
             ]
         },
         {
